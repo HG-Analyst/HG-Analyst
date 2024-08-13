@@ -3,7 +3,7 @@
 **Data & Business Analyst | Pune, India**  
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh%20Gaikwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/data-analyst-hg/)](https://www.linkedin.com/in/data-analyst-hg/)
 [![Gmail Badge](https://img.shields.io/badge/-hgdataanalyst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hgdataanalyst@gmail.com)](mailto:hgdataanalyst@gmail.com)
-[![Whats App](+ 91 9307209926)
++ 91 9307209926
 
 ---
 
