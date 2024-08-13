@@ -63,12 +63,5 @@
 
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshGaikwad&show_icons=true&hide_border=true&theme=radical)
 
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your recent blog post title](#)
-- [Another blog post title](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ⭐️ From [Harsh Gaikwad](https://github.com/HarshGaikwad)
