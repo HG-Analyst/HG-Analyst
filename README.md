@@ -3,6 +3,7 @@
 **Data & Business Analyst | Pune, India**  
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh%20Gaikwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/data-analyst-hg/)](https://www.linkedin.com/in/data-analyst-hg/)
 [![Gmail Badge](https://img.shields.io/badge/-hgdataanalyst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hgdataanalyst@gmail.com)](mailto:hgdataanalyst@gmail.com)
+[ [Mobile No.](+91 9307209926) ]
 
 ---
 
@@ -58,10 +59,6 @@
 
 6. **Market Basket Analysis (Statistical Analysis)**
    - Performed market basket analysis using association rule mining (Apriori algorithm) to uncover relationships between products purchased together, analyzed transaction data to generate rules, and provided recommendations for cross-selling and promotional strategies.
-
-## 📊 GitHub Stats
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshGaikwad&show_icons=true&hide_border=true&theme=radical)
 
 
 ⭐️ From [Harsh Gaikwad](https://github.com/HarshGaikwad)
