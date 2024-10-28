@@ -6,7 +6,8 @@
 
 ---
 
-🔍 I am a **Data & Business Analyst** with a passion for data-driven decision-making. I specialize in data collection, cleaning, analysis, and visualization to help businesses optimize processes and improve performance.
+🔍 I am a **Data & Business Analyst** with a passion for data-driven decision-making. I specialize in data collection, cleaning, analysis, and visualization to help businesses optimize     
+    processes and improve performance.
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/data-analyst-hg/)
 - 📫 How to reach me: hgdataanalyst@gmail.com
@@ -30,16 +31,16 @@
 ## 📈 Work Experience
 
 ### Power BI Developer - Logical DNA  [ Jan 2024 - Current ]
-I am Harsh Gaikwad, a Power BI Developer at Logical DNA, a company specializing in technological
-solutions for the livestock industry. My role involves transforming data into actionable insights to
-enhance business performance.
-Recently, I developed dashboards and reports for Sakas Milk Company, covering milk and its biproducts like ice cream, ghee, shrikhand, and pedha. These tools enabled better production
-monitoring, sales analysis, and inventory management.
-I also led the creation of dashboards for Baramati Agro poultry industry, featuring real-time batch
-monitoring and performance tracking. This allowed farms to improve productivity and streamline
-their supply chain.
-My expertise includes data collection, cleaning, and integration, along with building advanced
-visualizations and predictive models to support data-driven decision-making.
+   I am Harsh Gaikwad, a Power BI Developer at Logical DNA, a company specializing in technological
+   solutions for the livestock industry. My role involves transforming data into actionable insights to
+   enhance business performance.
+   Recently, I developed dashboards and reports for Sakas Milk Company, covering milk and its biproducts like ice cream, ghee, shrikhand, and pedha. These tools enabled better production
+   monitoring, sales analysis, and inventory management.
+   I also led the creation of dashboards for Baramati Agro poultry industry, featuring real-time batch
+   monitoring and performance tracking. This allowed farms to improve productivity and streamline
+   their supply chain.
+   My expertise includes data collection, cleaning, and integration, along with building advanced
+   visualizations and predictive models to support data-driven decision-making.
 
 ## 🚀 Projects
 
