@@ -1,4 +1,4 @@
-## Data & Business Analyst - HarsH Gaikwad 
+##  HarsH Gaikwad - Data & Business Analyst
 
 **Data & Business Analyst | Pune, India**  
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh%20Gaikwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/data-analyst-hg/)](https://www.linkedin.com/in/data-analyst-hg/)
