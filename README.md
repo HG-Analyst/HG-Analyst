@@ -6,11 +6,8 @@
 
 ---
 
-🔍 I am a **Data & Business Analyst** with a passion for data-driven decision-making. I specialize in data collection, cleaning, analysis, and visualization to help businesses optimize     
-    processes and improve performance.
-
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/data-analyst-hg/)
-- 📫 How to reach me: hgdataanalyst@gmail.com
+🔍 I am a Data & Business Analyst with a passion for data-driven decision-making. I specialize in data collection, cleaning, analysis, and visualization to help businesses optimize     
+processes and improve performance.
 
 ## 🛠 Skills & Tools
 
@@ -31,24 +28,26 @@
 ## 📈 Work Experience
 
 ### Power BI Developer - Logical DNA  [ Jan 2024 - Current ]
-   I am Harsh Gaikwad, a Power BI Developer at Logical DNA, a company specializing in technological
-   solutions for the livestock industry. My role involves transforming data into actionable insights to
-   enhance business performance.
-   Recently, I developed dashboards and reports for Sakas Milk Company, covering milk and its biproducts like ice cream, ghee, shrikhand, and pedha. These tools enabled better production
-   monitoring, sales analysis, and inventory management.
-   I also led the creation of dashboards for Baramati Agro poultry industry, featuring real-time batch
-   monitoring and performance tracking. This allowed farms to improve productivity and streamline
-   their supply chain.
-   My expertise includes data collection, cleaning, and integration, along with building advanced
-   visualizations and predictive models to support data-driven decision-making.
+I am Harsh Gaikwad, a Power BI Developer at Logical DNA, a company specializing in technological
+solutions for the livestock industry. My role involves transforming data into actionable insights to
+enhance business performance.
+Recently, I developed dashboards and reports for Sakas Milk Company, covering milk and its biproducts like ice cream, ghee, shrikhand, and pedha. These tools enabled better production
+monitoring, sales analysis, and inventory management.
+I also led the creation of dashboards for Baramati Agro poultry industry, featuring real-time batch
+monitoring and performance tracking. This allowed farms to improve productivity and streamline
+their supply chain.
+My expertise includes data collection, cleaning, and integration, along with building advanced
+visualizations and predictive models to support data-driven decision-making.
 
 ## 🚀 Projects
 
-1. **Sales and Revenue Analysis (Power BI)**
-   - Created a dashboard that analyzes sales and revenue data over time, including metrics like total sales, average order value, and revenue by category.
+1. **Sales Analysis ( Power BI )**
+    - I developed dashboards and reports for Sakas Milk Company, covering milk and its biproducts like ice cream, ghee, shrikhand, and pedha. These tools enabled better production
+monitoring, sales analysis, and inventory management.
   
-2. **Supply Chain Optimization (Tableau)**
-   - Developed a dashboard that visualizes the supply chain process, tracking inventory levels, order fulfillment, and delivery times, identifying areas for optimization and cost reduction.
+2. **Poultry Management ( Power BI )**
+    - I Developed dashboards for Baramati Agro poultry industry, featuring real-time batch monitoring and performance tracking. This allowed farms to improve productivity and streamline
+their supply chain.
 
 3. **Inventory Management System for Retail Business (MySQL)**
    - Designed and implemented a MySQL database for inventory tracking, developed SQL queries for monitoring stock levels, created stored procedures for inventory updates, integrated with the POS system, and produced inventory reports.
